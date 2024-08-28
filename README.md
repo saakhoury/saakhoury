@@ -3,6 +3,7 @@ I'm [Sanskriti Akhoury], a 2A Software Engineering Student @ UWaterloo
 # Experience
 - working on all things Data @ NGen Canada
 - on UW Blueprint's infrastructure team
+- working with Front Row Ventures Canada
 - a 3x JA Startup founder with TD, IFDS Canada, and Deloitte
 
 # Recent Projects
