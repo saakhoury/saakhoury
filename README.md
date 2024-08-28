@@ -16,5 +16,5 @@
 - Developed an AI-Driven GDP Forecasting Tool 
 
 #### Miscellaneous
-- Check out my website for my thoughts & research 
-- American Idol Golden Ticket Recipient (ABC S6)
+- Check out my website for my thoughts & research and vocal portfolio
+- 
