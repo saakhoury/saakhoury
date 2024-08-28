@@ -10,7 +10,7 @@
 
 #### Recent Projects
 <!--  -->
-- Built a Self-Supervised GNN Recommender System as an internal tool for NGen Canada – [Read about it](https://medium.com/red-buffer/implementation-and-understanding-of-graph-neural-networks-gnn-54084c8a0e24)
+- Built a Self-Supervised GNN Recommender System as an internal tool for NGen Canada – [Read about it]
 - Developed Full-Stack Map & Dashboard Applications with ML features – [Read about it](#)
 - Learning Complex ML/AI Concepts from BackPropagation to Quant Strategies
 - Developed an AI-Driven GDP Forecasting Tool – [GitHub](#)
