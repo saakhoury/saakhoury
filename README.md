@@ -1,5 +1,3 @@
-# saakhoury 👋
-
 I'm [Sanskriti Akhoury], a 2A Software Engineering Student @ UWaterloo 
 
 # Experience
