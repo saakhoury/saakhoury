@@ -1,15 +1,25 @@
-I'm [Sanskriti Akhoury], a 2A Software Engineering Student @ UWaterloo 
+# 🌟 Sanskriti Akhoury
 
-# Experience
-- working on all things Data @ NGen Canada
-- on UW Blueprint's infrastructure team
-- working with Front Row Ventures Canada
-- a 3x JA Startup founder with TD, IFDS Canada, and Deloitte
+**2A Software Engineering Student @ UWaterloo**
 
-# Recent Projects
-- built a self-supervised GNN recommender system for NGen -- read about it
-- developed full-stack map & dashboard applications with ML features -- read about it
-- learning complex ML/AI concepts ranging from BackPropagation to Quant Strategies -- git 
-- developed an AI-driven GDP forecasting tool -- git
+---
 
-Feel free to check out my wesbite for some accompanying blogs
+## 🏆 Experience
+
+- 💻 **Working on all things Data** @ NGen Canada
+- 🛠️ **Infrastructure Team Member** @ UW Blueprint
+- 🚀 **Collaborating with Front Row Ventures Canada**
+- 🎉 **3x JA Startup Founder** with TD, IFDS Canada, and Deloitte
+
+---
+
+## 🛠️ Recent Projects
+
+- 🔍 **Built a Self-Supervised GNN Recommender System** for NGen – [Read about it](https://medium.com/red-buffer/implementation-and-understanding-of-graph-neural-networks-gnn-54084c8a0e24)
+- 🌍 **Developed Full-Stack Map & Dashboard Applications** with ML features – [Read about it](#)
+- 📚 **Learning Complex ML/AI Concepts** from BackPropagation to Quant Strategies – [GitHub](#)
+- 📈 **Developed an AI-Driven GDP Forecasting Tool** – [GitHub](#)
+
+---
+
+Feel free to check out my [website](#) for some accompanying blogs!
