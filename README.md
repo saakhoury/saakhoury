@@ -1,5 +1,5 @@
 <h1 align="left"><b>Sanskriti Akhoury</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-2A Software Engineering Student @ UWaterloo
+2A Software Engineering Student @ UWaterloo & Competitive Vocalist
 
 #### Experience
 <!--  -->
@@ -13,8 +13,7 @@
 - Built a Self-Supervised GNN Recommender System as an internal tool for NGen Canada 
 - Developed Full-Stack Map & Dashboard Applications with ML features for NGen Canada
 - Learning Complex ML/AI Concepts from BackPropagation to Quant Strategies
-- Developed an AI-Driven GDP Forecasting Tool 
+- Developed an AI-Driven GDP Forecasting Tool for Industry Analysis 
+<!--  -->
 
-#### Miscellaneous
-- Check out my website for my thoughts & research and vocal portfolio
-- 
+Check out my website for more
