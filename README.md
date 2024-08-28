@@ -1,5 +1,5 @@
 <h1 align="left"><b>Sanskriti Akhoury</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-2A Software Engineering Student @ UWaterloo & Competitive Vocalist
+2A Software Engineering Student @ UWaterloo
 
 #### Experience
 <!--  -->
@@ -15,5 +15,3 @@
 - Learning Complex ML/AI Concepts from BackPropagation to Quant Strategies
 - Developed an AI-Driven GDP Forecasting Tool for Industry Analysis 
 <!--  -->
-
-Check out my website for more
