@@ -8,7 +8,7 @@
 
 - 💻 **Working on all things Data** @ NGen Canada
 - 🛠️ **Infrastructure Team Member** @ UW Blueprint
-- 🚀 **Collaborating with Front Row Ventures Canada**
+- 🚀 **'24 Front Row Ventures Cohort**
 - 🎉 **3x JA Startup Founder** with TD, IFDS Canada, and Deloitte
 
 ---
