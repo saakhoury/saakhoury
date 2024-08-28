@@ -11,6 +11,6 @@
 #### Recent Projects
 <!--  -->
 - Built a Self-Supervised GNN Recommender System as an internal tool for NGen Canada 
-- Developed Full-Stack Map & Dashboard Applications with ML features 
+- Developed Full-Stack Map & Dashboard Applications with ML features for NGen Canada
 - Learning Complex ML/AI Concepts from BackPropagation to Quant Strategies
 - Developed an AI-Driven GDP Forecasting Tool 
