@@ -4,7 +4,7 @@
 #### Experience
 <!--  -->
 - Working on all things Data @ NGen Canada
-- Infrastructure Team Member @ UW Blueprint
+- Infrastructure Developer @ UW Blueprint
 - '24 Front Row Venture Cohort
 - 3x JA Startup Founder with TD, IFDS Canada, and Deloitte
 
