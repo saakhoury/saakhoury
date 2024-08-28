@@ -6,7 +6,7 @@
 - Engineering all things Data @ NGen Canada
 - Infrastructure Developer @ UW Blueprint
 - '24 Front Row Venture Cohort
-- 3x Startup Founder with TD, IFDS Canada, and Deloitte
+- 3x Startup Founder sponsored by TD, IFDS Canada, and Deloitte
 
 #### Recent Projects
 <!--  -->
