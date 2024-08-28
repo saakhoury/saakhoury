@@ -16,6 +16,4 @@
 - 📚 Learning Complex ML/AI Concepts** from BackPropagation to Quant Strategies – [GitHub](#)
 - 📈 Developed an AI-Driven GDP Forecasting Tool** – [GitHub](#)
 
----
-
 Feel free to check out my [website](#) for some accompanying blogs!
