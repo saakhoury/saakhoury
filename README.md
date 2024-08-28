@@ -14,3 +14,8 @@
 - Developed Full-Stack Map & Dashboard Applications with ML features for NGen Canada
 - Learning Complex ML/AI Concepts from BackPropagation to Quant Strategies
 - Developed an AI-Driven GDP Forecasting Tool 
+
+#### Side Quests 
+- Check out my website for my thoughts & research 
+- American Idol Golden Ticket Recipient (ABC S6)
+- Check out @sanskriti_singing on instagram 
